@@ -1,4 +1,4 @@
-# hierarchy-viewer
+# Hierarchy viewer : To visualise network graphs
 
 Install [python](https://www.python.org/) 
 
