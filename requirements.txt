@@ -1,3 +1,6 @@
+pyodbc
 flask
-flask_wtf
-wtforms
+Flask-WTF
+WTForms
+networkx
+pyvis

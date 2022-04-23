@@ -1,9 +1,8 @@
 import pyodbc
-from flask import Flask, render_template, jsonify, request
+from flask import Flask, render_template, request
 from flask_wtf import FlaskForm
 from wtforms import SelectField
 import networkx as nx
-import pyodbc
 from pyvis.network import Network
 
 app = Flask(__name__)
